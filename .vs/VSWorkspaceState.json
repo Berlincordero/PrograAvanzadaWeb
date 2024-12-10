@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ProyectoWeb",
+    "\\ProyectoWeb\\Architecture",
+    "\\ProyectoWeb\\ProyectoWeb",
+    "\\ProyectoWeb\\ProyectoWeb.Data",
+    "\\ProyectoWeb\\ProyectoWeb.Models",
+    "\\ProyectoWeb\\ProyectoWeb.Mvc",
+    "\\ProyectoWeb\\ProyectoWeb.Service"
+  ],
+  "PreviewInSolutionExplorer": false
+}

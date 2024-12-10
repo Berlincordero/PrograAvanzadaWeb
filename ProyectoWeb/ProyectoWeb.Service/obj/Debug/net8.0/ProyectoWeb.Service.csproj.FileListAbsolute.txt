@@ -1,0 +1,11 @@
+C:\Users\enriq\OneDrive\Imágenes\proyectoweb\ProyectoWeb\ProyectoWeb.Service\bin\Debug\net8.0\ProyectoWeb.Service.deps.json
+C:\Users\enriq\OneDrive\Imágenes\proyectoweb\ProyectoWeb\ProyectoWeb.Service\bin\Debug\net8.0\ProyectoWeb.Service.dll
+C:\Users\enriq\OneDrive\Imágenes\proyectoweb\ProyectoWeb\ProyectoWeb.Service\bin\Debug\net8.0\ProyectoWeb.Service.pdb
+C:\Users\enriq\OneDrive\Imágenes\proyectoweb\ProyectoWeb\ProyectoWeb.Service\obj\Debug\net8.0\ProyectoWeb.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enriq\OneDrive\Imágenes\proyectoweb\ProyectoWeb\ProyectoWeb.Service\obj\Debug\net8.0\ProyectoWeb.Service.AssemblyInfoInputs.cache
+C:\Users\enriq\OneDrive\Imágenes\proyectoweb\ProyectoWeb\ProyectoWeb.Service\obj\Debug\net8.0\ProyectoWeb.Service.AssemblyInfo.cs
+C:\Users\enriq\OneDrive\Imágenes\proyectoweb\ProyectoWeb\ProyectoWeb.Service\obj\Debug\net8.0\ProyectoWeb.Service.csproj.CoreCompileInputs.cache
+C:\Users\enriq\OneDrive\Imágenes\proyectoweb\ProyectoWeb\ProyectoWeb.Service\obj\Debug\net8.0\ProyectoWeb.Service.dll
+C:\Users\enriq\OneDrive\Imágenes\proyectoweb\ProyectoWeb\ProyectoWeb.Service\obj\Debug\net8.0\refint\ProyectoWeb.Service.dll
+C:\Users\enriq\OneDrive\Imágenes\proyectoweb\ProyectoWeb\ProyectoWeb.Service\obj\Debug\net8.0\ProyectoWeb.Service.pdb
+C:\Users\enriq\OneDrive\Imágenes\proyectoweb\ProyectoWeb\ProyectoWeb.Service\obj\Debug\net8.0\ref\ProyectoWeb.Service.dll

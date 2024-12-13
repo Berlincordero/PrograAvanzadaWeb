@@ -12,6 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="Helpers\" />
     <Folder Include="Views\MediaContent\" />
     <Folder Include="Views\Advertisements\" />
     <Folder Include="Views\Weather\" />

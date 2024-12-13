@@ -3,40 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\enriq\\Music\\proyectoweb\\ProyectoWeb\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6A0761B3-A106-4EA7-8657-A17D961B3176}|ProyectoWeb.Models\\ProyectoWeb.Models.csproj|c:\\users\\enriq\\music\\proyectoweb\\proyectoweb\\proyectoweb.models\\entities\\mediadashboardcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A0761B3-A106-4EA7-8657-A17D961B3176}|ProyectoWeb.Models\\ProyectoWeb.Models.csproj|solutionrelative:proyectoweb.models\\entities\\mediadashboardcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{118783C2-3A16-410B-86DA-3DADBA7A05AF}|ProyectoWeb.Data\\ProyectoWeb.Data.csproj|c:\\users\\enriq\\music\\proyectoweb\\proyectoweb\\proyectoweb.data\\implementations\\unidaddetrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118783C2-3A16-410B-86DA-3DADBA7A05AF}|ProyectoWeb.Data\\ProyectoWeb.Data.csproj|solutionrelative:proyectoweb.data\\implementations\\unidaddetrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6329DD9-0C72-447A-B201-2440EF14B71B}|ProyectoWeb\\ProyectoWeb.Api.csproj|c:\\users\\enriq\\music\\proyectoweb\\proyectoweb\\proyectoweb\\dto\\advertisementsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6329DD9-0C72-447A-B201-2440EF14B71B}|ProyectoWeb\\ProyectoWeb.Api.csproj|solutionrelative:proyectoweb\\dto\\advertisementsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{118783C2-3A16-410B-86DA-3DADBA7A05AF}|ProyectoWeb.Data\\ProyectoWeb.Data.csproj|c:\\users\\enriq\\music\\proyectoweb\\proyectoweb\\proyectoweb.data\\interface\\iunidaddetrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118783C2-3A16-410B-86DA-3DADBA7A05AF}|ProyectoWeb.Data\\ProyectoWeb.Data.csproj|solutionrelative:proyectoweb.data\\interface\\iunidaddetrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6329DD9-0C72-447A-B201-2440EF14B71B}|ProyectoWeb\\ProyectoWeb.Api.csproj|c:\\users\\enriq\\music\\proyectoweb\\proyectoweb\\proyectoweb\\dto\\mediacontentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6329DD9-0C72-447A-B201-2440EF14B71B}|ProyectoWeb\\ProyectoWeb.Api.csproj|solutionrelative:proyectoweb\\dto\\mediacontentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{118783C2-3A16-410B-86DA-3DADBA7A05AF}|ProyectoWeb.Data\\ProyectoWeb.Data.csproj|c:\\users\\enriq\\music\\proyectoweb\\proyectoweb\\proyectoweb.data\\implementations\\advertisementdalimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118783C2-3A16-410B-86DA-3DADBA7A05AF}|ProyectoWeb.Data\\ProyectoWeb.Data.csproj|solutionrelative:proyectoweb.data\\implementations\\advertisementdalimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6329DD9-0C72-447A-B201-2440EF14B71B}|ProyectoWeb\\ProyectoWeb.Api.csproj|c:\\users\\enriq\\music\\proyectoweb\\proyectoweb\\proyectoweb\\dto\\newsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6329DD9-0C72-447A-B201-2440EF14B71B}|ProyectoWeb\\ProyectoWeb.Api.csproj|solutionrelative:proyectoweb\\dto\\newsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{99D93C41-7CB8-480E-879E-5D9BBA07BEDD}|ProyectoWeb.Service\\ProyectoWeb.Service.csproj|c:\\users\\enriq\\music\\proyectoweb\\proyectoweb\\proyectoweb.service\\implementation\\advertisementserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99D93C41-7CB8-480E-879E-5D9BBA07BEDD}|ProyectoWeb.Service\\ProyectoWeb.Service.csproj|solutionrelative:proyectoweb.service\\implementation\\advertisementserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6329DD9-0C72-447A-B201-2440EF14B71B}|ProyectoWeb\\ProyectoWeb.Api.csproj|c:\\users\\enriq\\music\\proyectoweb\\proyectoweb\\proyectoweb\\dto\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6329DD9-0C72-447A-B201-2440EF14B71B}|ProyectoWeb\\ProyectoWeb.Api.csproj|solutionrelative:proyectoweb\\dto\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A0761B3-A106-4EA7-8657-A17D961B3176}|ProyectoWeb.Models\\ProyectoWeb.Models.csproj|c:\\users\\enriq\\music\\proyectoweb\\proyectoweb\\proyectoweb.models\\entities\\advertisement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A0761B3-A106-4EA7-8657-A17D961B3176}|ProyectoWeb.Models\\ProyectoWeb.Models.csproj|solutionrelative:proyectoweb.models\\entities\\advertisement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58CAFACC-60A8-4476-80AC-E492BF7C52EF}|ProyectoWeb.Mvc\\ProyectoWeb.Mvc.csproj|c:\\users\\enriq\\music\\proyectoweb\\proyectoweb\\proyectoweb.mvc\\controllers\\advertisementscontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58CAFACC-60A8-4476-80AC-E492BF7C52EF}|ProyectoWeb.Mvc\\ProyectoWeb.Mvc.csproj|solutionrelative:proyectoweb.mvc\\controllers\\advertisementscontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{118783C2-3A16-410B-86DA-3DADBA7A05AF}|ProyectoWeb.Data\\ProyectoWeb.Data.csproj|c:\\users\\enriq\\music\\proyectoweb\\proyectoweb\\proyectoweb.data\\interface\\iadvertisementdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118783C2-3A16-410B-86DA-3DADBA7A05AF}|ProyectoWeb.Data\\ProyectoWeb.Data.csproj|solutionrelative:proyectoweb.data\\interface\\iadvertisementdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58CAFACC-60A8-4476-80AC-E492BF7C52EF}|ProyectoWeb.Mvc\\ProyectoWeb.Mvc.csproj|c:\\users\\enriq\\music\\proyectoweb\\proyectoweb\\proyectoweb.mvc\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58CAFACC-60A8-4476-80AC-E492BF7C52EF}|ProyectoWeb.Mvc\\ProyectoWeb.Mvc.csproj|solutionrelative:proyectoweb.mvc\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{118783C2-3A16-410B-86DA-3DADBA7A05AF}|ProyectoWeb.Data\\ProyectoWeb.Data.csproj|c:\\users\\enriq\\music\\proyectoweb\\proyectoweb\\proyectoweb.data\\interface\\idalgenerico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118783C2-3A16-410B-86DA-3DADBA7A05AF}|ProyectoWeb.Data\\ProyectoWeb.Data.csproj|solutionrelative:proyectoweb.data\\interface\\idalgenerico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58CAFACC-60A8-4476-80AC-E492BF7C52EF}|ProyectoWeb.Mvc\\ProyectoWeb.Mvc.csproj|c:\\users\\enriq\\music\\proyectoweb\\proyectoweb\\proyectoweb.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58CAFACC-60A8-4476-80AC-E492BF7C52EF}|ProyectoWeb.Mvc\\ProyectoWeb.Mvc.csproj|solutionrelative:proyectoweb.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{118783C2-3A16-410B-86DA-3DADBA7A05AF}|ProyectoWeb.Data\\ProyectoWeb.Data.csproj|c:\\users\\enriq\\music\\proyectoweb\\proyectoweb\\proyectoweb.data\\implementations\\dalgenericoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118783C2-3A16-410B-86DA-3DADBA7A05AF}|ProyectoWeb.Data\\ProyectoWeb.Data.csproj|solutionrelative:proyectoweb.data\\implementations\\dalgenericoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6329DD9-0C72-447A-B201-2440EF14B71B}|ProyectoWeb\\ProyectoWeb.Api.csproj|c:\\users\\enriq\\music\\proyectoweb\\proyectoweb\\proyectoweb\\proyectoweb.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{F6329DD9-0C72-447A-B201-2440EF14B71B}|ProyectoWeb\\ProyectoWeb.Api.csproj|solutionrelative:proyectoweb\\proyectoweb.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{118783C2-3A16-410B-86DA-3DADBA7A05AF}|ProyectoWeb.Data\\ProyectoWeb.Data.csproj|c:\\users\\enriq\\music\\proyectoweb\\proyectoweb\\proyectoweb.data\\proyectoweb.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{118783C2-3A16-410B-86DA-3DADBA7A05AF}|ProyectoWeb.Data\\ProyectoWeb.Data.csproj|solutionrelative:proyectoweb.data\\proyectoweb.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,123 +46,123 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MediaDashboardContext.cs",
-              "DocumentMoniker": "C:\\Users\\enriq\\Music\\proyectoweb\\ProyectoWeb\\ProyectoWeb.Models\\Entities\\MediaDashboardContext.cs",
-              "RelativeDocumentMoniker": "ProyectoWeb.Models\\Entities\\MediaDashboardContext.cs",
-              "ToolTip": "C:\\Users\\enriq\\Music\\proyectoweb\\ProyectoWeb\\ProyectoWeb.Models\\Entities\\MediaDashboardContext.cs",
-              "RelativeToolTip": "ProyectoWeb.Models\\Entities\\MediaDashboardContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T03:32:33.981Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "TokenDTO.cs",
-              "DocumentMoniker": "C:\\Users\\enriq\\Music\\proyectoweb\\ProyectoWeb\\ProyectoWeb\\DTO\\TokenDTO.cs",
-              "RelativeDocumentMoniker": "ProyectoWeb\\DTO\\TokenDTO.cs",
-              "ToolTip": "C:\\Users\\enriq\\Music\\proyectoweb\\ProyectoWeb\\ProyectoWeb\\DTO\\TokenDTO.cs",
-              "RelativeToolTip": "ProyectoWeb\\DTO\\TokenDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAACAAAA",
+              "Title": "Advertisement.cs",
+              "DocumentMoniker": "C:\\Users\\enriq\\Music\\proyectoweb\\ProyectoWeb\\ProyectoWeb.Models\\Entities\\Advertisement.cs",
+              "RelativeDocumentMoniker": "ProyectoWeb.Models\\Entities\\Advertisement.cs",
+              "ToolTip": "C:\\Users\\enriq\\Music\\proyectoweb\\ProyectoWeb\\ProyectoWeb.Models\\Entities\\Advertisement.cs",
+              "RelativeToolTip": "ProyectoWeb.Models\\Entities\\Advertisement.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T03:27:54.324Z",
+              "WhenOpened": "2024-12-13T23:49:23.827Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "NewsDTO.cs",
-              "DocumentMoniker": "C:\\Users\\enriq\\Music\\proyectoweb\\ProyectoWeb\\ProyectoWeb\\DTO\\NewsDTO.cs",
-              "RelativeDocumentMoniker": "ProyectoWeb\\DTO\\NewsDTO.cs",
-              "ToolTip": "C:\\Users\\enriq\\Music\\proyectoweb\\ProyectoWeb\\ProyectoWeb\\DTO\\NewsDTO.cs",
-              "RelativeToolTip": "ProyectoWeb\\DTO\\NewsDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "AdvertisementServiceImpl.cs",
+              "DocumentMoniker": "C:\\Users\\enriq\\Music\\proyectoweb\\ProyectoWeb\\ProyectoWeb.Service\\Implementation\\AdvertisementServiceImpl.cs",
+              "RelativeDocumentMoniker": "ProyectoWeb.Service\\Implementation\\AdvertisementServiceImpl.cs",
+              "ToolTip": "C:\\Users\\enriq\\Music\\proyectoweb\\ProyectoWeb\\ProyectoWeb.Service\\Implementation\\AdvertisementServiceImpl.cs",
+              "RelativeToolTip": "ProyectoWeb.Service\\Implementation\\AdvertisementServiceImpl.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAAAFMAAABKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T03:27:53.162Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MediaContentDTO.cs",
-              "DocumentMoniker": "C:\\Users\\enriq\\Music\\proyectoweb\\ProyectoWeb\\ProyectoWeb\\DTO\\MediaContentDTO.cs",
-              "RelativeDocumentMoniker": "ProyectoWeb\\DTO\\MediaContentDTO.cs",
-              "ToolTip": "C:\\Users\\enriq\\Music\\proyectoweb\\ProyectoWeb\\ProyectoWeb\\DTO\\MediaContentDTO.cs",
-              "RelativeToolTip": "ProyectoWeb\\DTO\\MediaContentDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T03:27:51.543Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AdvertisementsDTO.cs",
-              "DocumentMoniker": "C:\\Users\\enriq\\Music\\proyectoweb\\ProyectoWeb\\ProyectoWeb\\DTO\\AdvertisementsDTO.cs",
-              "RelativeDocumentMoniker": "ProyectoWeb\\DTO\\AdvertisementsDTO.cs",
-              "ToolTip": "C:\\Users\\enriq\\Music\\proyectoweb\\ProyectoWeb\\ProyectoWeb\\DTO\\AdvertisementsDTO.cs",
-              "RelativeToolTip": "ProyectoWeb\\DTO\\AdvertisementsDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T03:27:49.523Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "LoginController.cs",
-              "DocumentMoniker": "C:\\Users\\enriq\\Music\\proyectoweb\\ProyectoWeb\\ProyectoWeb.Mvc\\Controllers\\LoginController.cs",
-              "RelativeDocumentMoniker": "ProyectoWeb.Mvc\\Controllers\\LoginController.cs",
-              "ToolTip": "C:\\Users\\enriq\\Music\\proyectoweb\\ProyectoWeb\\ProyectoWeb.Mvc\\Controllers\\LoginController.cs",
-              "RelativeToolTip": "ProyectoWeb.Mvc\\Controllers\\LoginController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T03:26:31.836Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\enriq\\Music\\proyectoweb\\ProyectoWeb\\ProyectoWeb.Mvc\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "ProyectoWeb.Mvc\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\enriq\\Music\\proyectoweb\\ProyectoWeb\\ProyectoWeb.Mvc\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "ProyectoWeb.Mvc\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T03:26:27.741Z",
+              "WhenOpened": "2024-12-13T23:43:09.379Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "AdvertisementsController1.cs",
-              "DocumentMoniker": "C:\\Users\\enriq\\Music\\proyectoweb\\ProyectoWeb\\ProyectoWeb.Mvc\\Controllers\\AdvertisementsController1.cs",
-              "RelativeDocumentMoniker": "ProyectoWeb.Mvc\\Controllers\\AdvertisementsController1.cs",
-              "ToolTip": "C:\\Users\\enriq\\Music\\proyectoweb\\ProyectoWeb\\ProyectoWeb.Mvc\\Controllers\\AdvertisementsController1.cs",
-              "RelativeToolTip": "ProyectoWeb.Mvc\\Controllers\\AdvertisementsController1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "IAdvertisementDAL.cs",
+              "DocumentMoniker": "C:\\Users\\enriq\\Music\\proyectoweb\\ProyectoWeb\\ProyectoWeb.Data\\Interface\\IAdvertisementDAL.cs",
+              "RelativeDocumentMoniker": "ProyectoWeb.Data\\Interface\\IAdvertisementDAL.cs",
+              "ToolTip": "C:\\Users\\enriq\\Music\\proyectoweb\\ProyectoWeb\\ProyectoWeb.Data\\Interface\\IAdvertisementDAL.cs",
+              "RelativeToolTip": "ProyectoWeb.Data\\Interface\\IAdvertisementDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T03:26:25.893Z",
+              "WhenOpened": "2024-12-13T23:38:14.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdvertisementDALImpl.cs",
+              "DocumentMoniker": "C:\\Users\\enriq\\Music\\proyectoweb\\ProyectoWeb\\ProyectoWeb.Data\\Implementations\\AdvertisementDALImpl.cs",
+              "RelativeDocumentMoniker": "ProyectoWeb.Data\\Implementations\\AdvertisementDALImpl.cs",
+              "ToolTip": "C:\\Users\\enriq\\Music\\proyectoweb\\ProyectoWeb\\ProyectoWeb.Data\\Implementations\\AdvertisementDALImpl.cs",
+              "RelativeToolTip": "ProyectoWeb.Data\\Implementations\\AdvertisementDALImpl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T23:33:48.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUnidadDeTrabajo.cs",
+              "DocumentMoniker": "C:\\Users\\enriq\\Music\\proyectoweb\\ProyectoWeb\\ProyectoWeb.Data\\Interface\\IUnidadDeTrabajo.cs",
+              "RelativeDocumentMoniker": "ProyectoWeb.Data\\Interface\\IUnidadDeTrabajo.cs",
+              "ToolTip": "C:\\Users\\enriq\\Music\\proyectoweb\\ProyectoWeb\\ProyectoWeb.Data\\Interface\\IUnidadDeTrabajo.cs",
+              "RelativeToolTip": "ProyectoWeb.Data\\Interface\\IUnidadDeTrabajo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T23:29:28.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnidadDeTrabajo.cs",
+              "DocumentMoniker": "C:\\Users\\enriq\\Music\\proyectoweb\\ProyectoWeb\\ProyectoWeb.Data\\Implementations\\UnidadDeTrabajo.cs",
+              "RelativeDocumentMoniker": "ProyectoWeb.Data\\Implementations\\UnidadDeTrabajo.cs",
+              "ToolTip": "C:\\Users\\enriq\\Music\\proyectoweb\\ProyectoWeb\\ProyectoWeb.Data\\Implementations\\UnidadDeTrabajo.cs",
+              "RelativeToolTip": "ProyectoWeb.Data\\Implementations\\UnidadDeTrabajo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T23:20:49.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IDALGenerico.cs",
+              "DocumentMoniker": "C:\\Users\\enriq\\Music\\proyectoweb\\ProyectoWeb\\ProyectoWeb.Data\\Interface\\IDALGenerico.cs",
+              "RelativeDocumentMoniker": "ProyectoWeb.Data\\Interface\\IDALGenerico.cs",
+              "ToolTip": "C:\\Users\\enriq\\Music\\proyectoweb\\ProyectoWeb\\ProyectoWeb.Data\\Interface\\IDALGenerico.cs",
+              "RelativeToolTip": "ProyectoWeb.Data\\Interface\\IDALGenerico.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T23:29:24.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DALGenericoImpl.cs",
+              "DocumentMoniker": "C:\\Users\\enriq\\Music\\proyectoweb\\ProyectoWeb\\ProyectoWeb.Data\\Implementations\\DALGenericoImpl.cs",
+              "RelativeDocumentMoniker": "ProyectoWeb.Data\\Implementations\\DALGenericoImpl.cs",
+              "ToolTip": "C:\\Users\\enriq\\Music\\proyectoweb\\ProyectoWeb\\ProyectoWeb.Data\\Implementations\\DALGenericoImpl.cs",
+              "RelativeToolTip": "ProyectoWeb.Data\\Implementations\\DALGenericoImpl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T23:15:24.678Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "ProyectoWeb.Api",
-              "DocumentMoniker": "C:\\Users\\enriq\\Music\\proyectoweb\\ProyectoWeb\\ProyectoWeb\\ProyectoWeb.Api.csproj",
-              "RelativeDocumentMoniker": "ProyectoWeb\\ProyectoWeb.Api.csproj",
-              "ToolTip": "C:\\Users\\enriq\\Music\\proyectoweb\\ProyectoWeb\\ProyectoWeb\\ProyectoWeb.Api.csproj",
-              "RelativeToolTip": "ProyectoWeb\\ProyectoWeb.Api.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "ProyectoWeb.Data",
+              "DocumentMoniker": "C:\\Users\\enriq\\Music\\proyectoweb\\ProyectoWeb\\ProyectoWeb.Data\\ProyectoWeb.Data.csproj",
+              "RelativeDocumentMoniker": "ProyectoWeb.Data\\ProyectoWeb.Data.csproj",
+              "ToolTip": "C:\\Users\\enriq\\Music\\proyectoweb\\ProyectoWeb\\ProyectoWeb.Data\\ProyectoWeb.Data.csproj",
+              "RelativeToolTip": "ProyectoWeb.Data\\ProyectoWeb.Data.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-13T03:24:47.407Z",
+              "WhenOpened": "2024-12-13T23:13:04.046Z",
               "EditorCaption": ""
             }
           ]

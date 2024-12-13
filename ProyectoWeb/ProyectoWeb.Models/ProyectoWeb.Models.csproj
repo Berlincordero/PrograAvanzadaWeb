@@ -15,8 +15,4 @@
     </PackageReference>
   </ItemGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\ProyectoWeb.Mvc\ProyectoWeb.Mvc.csproj" />
-  </ItemGroup>
-
 </Project>

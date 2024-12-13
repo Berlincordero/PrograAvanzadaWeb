@@ -1,14 +1,40 @@
-C:\Users\enriq\OneDrive\Imágenes\proyectoweb\ProyectoWeb\ProyectoWeb.Models\bin\Debug\net8.0\ProyectoWeb.Models.deps.json
-C:\Users\enriq\OneDrive\Imágenes\proyectoweb\ProyectoWeb\ProyectoWeb.Models\bin\Debug\net8.0\ProyectoWeb.Models.runtimeconfig.json
-C:\Users\enriq\OneDrive\Imágenes\proyectoweb\ProyectoWeb\ProyectoWeb.Models\bin\Debug\net8.0\ProyectoWeb.Models.dll
-C:\Users\enriq\OneDrive\Imágenes\proyectoweb\ProyectoWeb\ProyectoWeb.Models\bin\Debug\net8.0\ProyectoWeb.Models.pdb
-C:\Users\enriq\OneDrive\Imágenes\proyectoweb\ProyectoWeb\ProyectoWeb.Models\obj\Debug\net8.0\ProyectoWeb.Models.csproj.AssemblyReference.cache
-C:\Users\enriq\OneDrive\Imágenes\proyectoweb\ProyectoWeb\ProyectoWeb.Models\obj\Debug\net8.0\ProyectoWeb.Models.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\enriq\OneDrive\Imágenes\proyectoweb\ProyectoWeb\ProyectoWeb.Models\obj\Debug\net8.0\ProyectoWeb.Models.AssemblyInfoInputs.cache
-C:\Users\enriq\OneDrive\Imágenes\proyectoweb\ProyectoWeb\ProyectoWeb.Models\obj\Debug\net8.0\ProyectoWeb.Models.AssemblyInfo.cs
-C:\Users\enriq\OneDrive\Imágenes\proyectoweb\ProyectoWeb\ProyectoWeb.Models\obj\Debug\net8.0\ProyectoWeb.Models.csproj.CoreCompileInputs.cache
-C:\Users\enriq\OneDrive\Imágenes\proyectoweb\ProyectoWeb\ProyectoWeb.Models\obj\Debug\net8.0\ProyectoWeb.Models.dll
-C:\Users\enriq\OneDrive\Imágenes\proyectoweb\ProyectoWeb\ProyectoWeb.Models\obj\Debug\net8.0\refint\ProyectoWeb.Models.dll
-C:\Users\enriq\OneDrive\Imágenes\proyectoweb\ProyectoWeb\ProyectoWeb.Models\obj\Debug\net8.0\ProyectoWeb.Models.pdb
-C:\Users\enriq\OneDrive\Imágenes\proyectoweb\ProyectoWeb\ProyectoWeb.Models\obj\Debug\net8.0\ProyectoWeb.Models.genruntimeconfig.cache
-C:\Users\enriq\OneDrive\Imágenes\proyectoweb\ProyectoWeb\ProyectoWeb.Models\obj\Debug\net8.0\ref\ProyectoWeb.Models.dll
+C:\Users\user\Desktop\Fidélitas\3er Cuatri\Progra Avanzada Web\ProyectoGitHub\PrograAvanzadaWeb\ProyectoWeb.Models\bin\Debug\net8.0\ProyectoWeb.Models.deps.json
+C:\Users\user\Desktop\Fidélitas\3er Cuatri\Progra Avanzada Web\ProyectoGitHub\PrograAvanzadaWeb\ProyectoWeb.Models\bin\Debug\net8.0\ProyectoWeb.Models.dll
+C:\Users\user\Desktop\Fidélitas\3er Cuatri\Progra Avanzada Web\ProyectoGitHub\PrograAvanzadaWeb\ProyectoWeb.Models\bin\Debug\net8.0\ProyectoWeb.Models.pdb
+C:\Users\user\Desktop\Fidélitas\3er Cuatri\Progra Avanzada Web\ProyectoGitHub\PrograAvanzadaWeb\ProyectoWeb.Models\obj\Debug\net8.0\ProyectoWeb.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Fidélitas\3er Cuatri\Progra Avanzada Web\ProyectoGitHub\PrograAvanzadaWeb\ProyectoWeb.Models\obj\Debug\net8.0\ProyectoWeb.Models.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Fidélitas\3er Cuatri\Progra Avanzada Web\ProyectoGitHub\PrograAvanzadaWeb\ProyectoWeb.Models\obj\Debug\net8.0\ProyectoWeb.Models.AssemblyInfo.cs
+C:\Users\user\Desktop\Fidélitas\3er Cuatri\Progra Avanzada Web\ProyectoGitHub\PrograAvanzadaWeb\ProyectoWeb.Models\obj\Debug\net8.0\ProyectoWeb.Models.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Fidélitas\3er Cuatri\Progra Avanzada Web\ProyectoGitHub\PrograAvanzadaWeb\ProyectoWeb.Models\obj\Debug\net8.0\ProyectoWeb.Models.sourcelink.json
+C:\Users\user\Desktop\Fidélitas\3er Cuatri\Progra Avanzada Web\ProyectoGitHub\PrograAvanzadaWeb\ProyectoWeb.Models\obj\Debug\net8.0\ProyectoWeb.Models.dll
+C:\Users\user\Desktop\Fidélitas\3er Cuatri\Progra Avanzada Web\ProyectoGitHub\PrograAvanzadaWeb\ProyectoWeb.Models\obj\Debug\net8.0\refint\ProyectoWeb.Models.dll
+C:\Users\user\Desktop\Fidélitas\3er Cuatri\Progra Avanzada Web\ProyectoGitHub\PrograAvanzadaWeb\ProyectoWeb.Models\obj\Debug\net8.0\ProyectoWeb.Models.pdb
+C:\Users\user\Desktop\Fidélitas\3er Cuatri\Progra Avanzada Web\ProyectoGitHub\PrograAvanzadaWeb\ProyectoWeb.Models\obj\Debug\net8.0\ref\ProyectoWeb.Models.dll
+C:\Users\enriq\Music\proyectoweb\ProyectoWeb\ProyectoWeb.Models\bin\Debug\net8.0\ProyectoWeb.Models.deps.json
+C:\Users\enriq\Music\proyectoweb\ProyectoWeb\ProyectoWeb.Models\bin\Debug\net8.0\ProyectoWeb.Models.runtimeconfig.json
+C:\Users\enriq\Music\proyectoweb\ProyectoWeb\ProyectoWeb.Models\bin\Debug\net8.0\ProyectoWeb.Models.dll
+C:\Users\enriq\Music\proyectoweb\ProyectoWeb\ProyectoWeb.Models\bin\Debug\net8.0\ProyectoWeb.Models.pdb
+C:\Users\enriq\Music\proyectoweb\ProyectoWeb\ProyectoWeb.Models\obj\Debug\net8.0\ProyectoWeb.Models.csproj.AssemblyReference.cache
+C:\Users\enriq\Music\proyectoweb\ProyectoWeb\ProyectoWeb.Models\obj\Debug\net8.0\ProyectoWeb.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enriq\Music\proyectoweb\ProyectoWeb\ProyectoWeb.Models\obj\Debug\net8.0\ProyectoWeb.Models.AssemblyInfoInputs.cache
+C:\Users\enriq\Music\proyectoweb\ProyectoWeb\ProyectoWeb.Models\obj\Debug\net8.0\ProyectoWeb.Models.AssemblyInfo.cs
+C:\Users\enriq\Music\proyectoweb\ProyectoWeb\ProyectoWeb.Models\obj\Debug\net8.0\ProyectoWeb.Models.csproj.CoreCompileInputs.cache
+C:\Users\enriq\Music\proyectoweb\ProyectoWeb\ProyectoWeb.Models\obj\Debug\net8.0\ProyectoWeb.Models.sourcelink.json
+C:\Users\enriq\Music\proyectoweb\ProyectoWeb\ProyectoWeb.Models\obj\Debug\net8.0\ProyectoWeb.Models.dll
+C:\Users\enriq\Music\proyectoweb\ProyectoWeb\ProyectoWeb.Models\obj\Debug\net8.0\refint\ProyectoWeb.Models.dll
+C:\Users\enriq\Music\proyectoweb\ProyectoWeb\ProyectoWeb.Models\obj\Debug\net8.0\ProyectoWeb.Models.pdb
+C:\Users\enriq\Music\proyectoweb\ProyectoWeb\ProyectoWeb.Models\obj\Debug\net8.0\ProyectoWeb.Models.genruntimeconfig.cache
+C:\Users\enriq\Music\proyectoweb\ProyectoWeb\ProyectoWeb.Models\obj\Debug\net8.0\ref\ProyectoWeb.Models.dll
+C:\Users\enriq\Music\proyectoweb\ProyectoWeb\ProyectoWeb.Models\bin\Debug\net8.0\ProyectoWeb.Mvc.deps.json
+C:\Users\enriq\Music\proyectoweb\ProyectoWeb\ProyectoWeb.Models\bin\Debug\net8.0\ProyectoWeb.Mvc.runtimeconfig.json
+C:\Users\enriq\Music\proyectoweb\ProyectoWeb\ProyectoWeb.Models\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\enriq\Music\proyectoweb\ProyectoWeb\ProyectoWeb.Models\bin\Debug\net8.0\appsettings.json
+C:\Users\enriq\Music\proyectoweb\ProyectoWeb\ProyectoWeb.Models\bin\Debug\net8.0\ProyectoWeb.Mvc.staticwebassets.runtime.json
+C:\Users\enriq\Music\proyectoweb\ProyectoWeb\ProyectoWeb.Models\bin\Debug\net8.0\ProyectoWeb.Mvc.exe
+C:\Users\enriq\Music\proyectoweb\ProyectoWeb\ProyectoWeb.Models\bin\Debug\net8.0\ProyectoWeb.Data.dll
+C:\Users\enriq\Music\proyectoweb\ProyectoWeb\ProyectoWeb.Models\bin\Debug\net8.0\ProyectoWeb.Mvc.dll
+C:\Users\enriq\Music\proyectoweb\ProyectoWeb\ProyectoWeb.Models\bin\Debug\net8.0\ProyectoWeb.Service.dll
+C:\Users\enriq\Music\proyectoweb\ProyectoWeb\ProyectoWeb.Models\bin\Debug\net8.0\ProyectoWeb.Mvc.pdb
+C:\Users\enriq\Music\proyectoweb\ProyectoWeb\ProyectoWeb.Models\bin\Debug\net8.0\ProyectoWeb.Data.pdb
+C:\Users\enriq\Music\proyectoweb\ProyectoWeb\ProyectoWeb.Models\bin\Debug\net8.0\ProyectoWeb.Service.pdb
+C:\Users\enriq\Music\proyectoweb\ProyectoWeb\ProyectoWeb.Models\obj\Debug\net8.0\Proyecto.69BA1EC5.Up2Date

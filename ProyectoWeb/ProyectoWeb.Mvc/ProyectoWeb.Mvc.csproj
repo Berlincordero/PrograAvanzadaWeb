@@ -6,4 +6,16 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\ProyectoWeb.Data\ProyectoWeb.Data.csproj" />
+    <ProjectReference Include="..\ProyectoWeb.Service\ProyectoWeb.Service.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Views\MediaContent\" />
+    <Folder Include="Views\Advertisements\" />
+    <Folder Include="Views\Weather\" />
+    <Folder Include="Views\News\" />
+  </ItemGroup>
+
 </Project>

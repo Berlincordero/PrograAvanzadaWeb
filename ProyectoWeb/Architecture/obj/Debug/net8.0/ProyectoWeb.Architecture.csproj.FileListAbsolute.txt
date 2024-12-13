@@ -1,11 +1,24 @@
-C:\Users\enriq\OneDrive\Imágenes\proyectoweb\ProyectoWeb\Architecture\bin\Debug\net8.0\ProyectoWeb.Architecture.deps.json
-C:\Users\enriq\OneDrive\Imágenes\proyectoweb\ProyectoWeb\Architecture\bin\Debug\net8.0\ProyectoWeb.Architecture.dll
-C:\Users\enriq\OneDrive\Imágenes\proyectoweb\ProyectoWeb\Architecture\bin\Debug\net8.0\ProyectoWeb.Architecture.pdb
-C:\Users\enriq\OneDrive\Imágenes\proyectoweb\ProyectoWeb\Architecture\obj\Debug\net8.0\ProyectoWeb.Architecture.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\enriq\OneDrive\Imágenes\proyectoweb\ProyectoWeb\Architecture\obj\Debug\net8.0\ProyectoWeb.Architecture.AssemblyInfoInputs.cache
-C:\Users\enriq\OneDrive\Imágenes\proyectoweb\ProyectoWeb\Architecture\obj\Debug\net8.0\ProyectoWeb.Architecture.AssemblyInfo.cs
-C:\Users\enriq\OneDrive\Imágenes\proyectoweb\ProyectoWeb\Architecture\obj\Debug\net8.0\ProyectoWeb.Architecture.csproj.CoreCompileInputs.cache
-C:\Users\enriq\OneDrive\Imágenes\proyectoweb\ProyectoWeb\Architecture\obj\Debug\net8.0\ProyectoWeb.Architecture.dll
-C:\Users\enriq\OneDrive\Imágenes\proyectoweb\ProyectoWeb\Architecture\obj\Debug\net8.0\refint\ProyectoWeb.Architecture.dll
-C:\Users\enriq\OneDrive\Imágenes\proyectoweb\ProyectoWeb\Architecture\obj\Debug\net8.0\ProyectoWeb.Architecture.pdb
-C:\Users\enriq\OneDrive\Imágenes\proyectoweb\ProyectoWeb\Architecture\obj\Debug\net8.0\ref\ProyectoWeb.Architecture.dll
+C:\Users\user\Desktop\Fidélitas\3er Cuatri\Progra Avanzada Web\ProyectoGitHub\PrograAvanzadaWeb\Architecture\bin\Debug\net8.0\ProyectoWeb.Architecture.deps.json
+C:\Users\user\Desktop\Fidélitas\3er Cuatri\Progra Avanzada Web\ProyectoGitHub\PrograAvanzadaWeb\Architecture\bin\Debug\net8.0\ProyectoWeb.Architecture.dll
+C:\Users\user\Desktop\Fidélitas\3er Cuatri\Progra Avanzada Web\ProyectoGitHub\PrograAvanzadaWeb\Architecture\bin\Debug\net8.0\ProyectoWeb.Architecture.pdb
+C:\Users\user\Desktop\Fidélitas\3er Cuatri\Progra Avanzada Web\ProyectoGitHub\PrograAvanzadaWeb\Architecture\obj\Debug\net8.0\ProyectoWeb.Architecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Fidélitas\3er Cuatri\Progra Avanzada Web\ProyectoGitHub\PrograAvanzadaWeb\Architecture\obj\Debug\net8.0\ProyectoWeb.Architecture.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Fidélitas\3er Cuatri\Progra Avanzada Web\ProyectoGitHub\PrograAvanzadaWeb\Architecture\obj\Debug\net8.0\ProyectoWeb.Architecture.AssemblyInfo.cs
+C:\Users\user\Desktop\Fidélitas\3er Cuatri\Progra Avanzada Web\ProyectoGitHub\PrograAvanzadaWeb\Architecture\obj\Debug\net8.0\ProyectoWeb.Architecture.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Fidélitas\3er Cuatri\Progra Avanzada Web\ProyectoGitHub\PrograAvanzadaWeb\Architecture\obj\Debug\net8.0\ProyectoWeb.Architecture.sourcelink.json
+C:\Users\user\Desktop\Fidélitas\3er Cuatri\Progra Avanzada Web\ProyectoGitHub\PrograAvanzadaWeb\Architecture\obj\Debug\net8.0\ProyectoWeb.Architecture.dll
+C:\Users\user\Desktop\Fidélitas\3er Cuatri\Progra Avanzada Web\ProyectoGitHub\PrograAvanzadaWeb\Architecture\obj\Debug\net8.0\refint\ProyectoWeb.Architecture.dll
+C:\Users\user\Desktop\Fidélitas\3er Cuatri\Progra Avanzada Web\ProyectoGitHub\PrograAvanzadaWeb\Architecture\obj\Debug\net8.0\ProyectoWeb.Architecture.pdb
+C:\Users\user\Desktop\Fidélitas\3er Cuatri\Progra Avanzada Web\ProyectoGitHub\PrograAvanzadaWeb\Architecture\obj\Debug\net8.0\ref\ProyectoWeb.Architecture.dll
+C:\Users\enriq\Music\proyectoweb\ProyectoWeb\Architecture\bin\Debug\net8.0\ProyectoWeb.Architecture.deps.json
+C:\Users\enriq\Music\proyectoweb\ProyectoWeb\Architecture\bin\Debug\net8.0\ProyectoWeb.Architecture.dll
+C:\Users\enriq\Music\proyectoweb\ProyectoWeb\Architecture\bin\Debug\net8.0\ProyectoWeb.Architecture.pdb
+C:\Users\enriq\Music\proyectoweb\ProyectoWeb\Architecture\obj\Debug\net8.0\ProyectoWeb.Architecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enriq\Music\proyectoweb\ProyectoWeb\Architecture\obj\Debug\net8.0\ProyectoWeb.Architecture.AssemblyInfoInputs.cache
+C:\Users\enriq\Music\proyectoweb\ProyectoWeb\Architecture\obj\Debug\net8.0\ProyectoWeb.Architecture.AssemblyInfo.cs
+C:\Users\enriq\Music\proyectoweb\ProyectoWeb\Architecture\obj\Debug\net8.0\ProyectoWeb.Architecture.csproj.CoreCompileInputs.cache
+C:\Users\enriq\Music\proyectoweb\ProyectoWeb\Architecture\obj\Debug\net8.0\ProyectoWeb.Architecture.sourcelink.json
+C:\Users\enriq\Music\proyectoweb\ProyectoWeb\Architecture\obj\Debug\net8.0\ProyectoWeb.Architecture.dll
+C:\Users\enriq\Music\proyectoweb\ProyectoWeb\Architecture\obj\Debug\net8.0\refint\ProyectoWeb.Architecture.dll
+C:\Users\enriq\Music\proyectoweb\ProyectoWeb\Architecture\obj\Debug\net8.0\ProyectoWeb.Architecture.pdb
+C:\Users\enriq\Music\proyectoweb\ProyectoWeb\Architecture\obj\Debug\net8.0\ref\ProyectoWeb.Architecture.dll

@@ -15,11 +15,7 @@ public partial class MediaDashboardContext : DbContext
     {
     }
 
-    public virtual DbSet<ComponentExchangeRate> ComponentExchangeRates { get; set; }
-
-    public virtual DbSet<ComponentWeather> ComponentWeathers { get; set; }
-
-    public virtual DbSet<ExchangeRate> ExchangeRates { get; set; }
+    public virtual DbSet<Advertisement> Advertisements { get; set; }
 
     public virtual DbSet<MediaComponent> MediaComponents { get; set; }
 
@@ -37,65 +33,32 @@ public partial class MediaDashboardContext : DbContext
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
-        modelBuilder.Entity<ComponentExchangeRate>(entity =>
+        modelBuilder.Entity<Advertisement>(entity =>
         {
-            entity.HasKey(e => e.ComponentExchangeId).HasName("PK__Componen__19EF155D93FFF17B");
+            entity.HasKey(e => e.AdId).HasName("PK__Advertis__7130D5AE0BF49FA8");
 
-            entity.ToTable("ComponentExchangeRate");
+            entity.ToTable(tb => tb.HasTrigger("trg_Advertisements_EndDateValidation"));
 
-            entity.HasOne(d => d.Component).WithMany(p => p.ComponentExchangeRates)
-                .HasForeignKey(d => d.ComponentId)
-                .HasConstraintName("FK_ComponentExchange_Component");
-
-            entity.HasOne(d => d.Rate).WithMany(p => p.ComponentExchangeRates)
-                .HasForeignKey(d => d.RateId)
-                .HasConstraintName("FK_ComponentExchange_Rate");
-        });
-
-        modelBuilder.Entity<ComponentWeather>(entity =>
-        {
-            entity.HasKey(e => e.ComponentWeatherId).HasName("PK__Componen__B17A4CE7C2C67BED");
-
-            entity.ToTable("ComponentWeather");
-
-            entity.HasOne(d => d.Component).WithMany(p => p.ComponentWeathers)
-                .HasForeignKey(d => d.ComponentId)
-                .HasConstraintName("FK_ComponentWeather_Component");
-
-            entity.HasOne(d => d.Weather).WithMany(p => p.ComponentWeathers)
-                .HasForeignKey(d => d.WeatherId)
-                .HasConstraintName("FK_ComponentWeather_Weather");
-        });
-
-        modelBuilder.Entity<ExchangeRate>(entity =>
-        {
-            entity.HasKey(e => e.RateId).HasName("PK__Exchange__58A7CF5CC59D850A");
-
-            entity.Property(e => e.Currency).HasMaxLength(10);
-            entity.Property(e => e.Date).HasColumnType("datetime");
-            entity.Property(e => e.ExchangeRate1)
-                .HasColumnType("decimal(10, 4)")
-                .HasColumnName("ExchangeRate");
+            entity.Property(e => e.EndDate).HasColumnType("datetime");
+            entity.Property(e => e.ImageUrl).HasMaxLength(500);
+            entity.Property(e => e.StartDate).HasColumnType("datetime");
+            entity.Property(e => e.TargetUrl).HasMaxLength(500);
+            entity.Property(e => e.Title).HasMaxLength(255);
         });
 
         modelBuilder.Entity<MediaComponent>(entity =>
         {
-            entity.HasKey(e => e.ComponentId).HasName("PK__MediaCom__D79CF04E173E3B57");
+            entity.HasKey(e => e.ComponentId).HasName("PK__MediaCom__D79CF04EFC574961");
 
-            entity.Property(e => e.CreatedDate)
-                .HasDefaultValueSql("(getdate())")
-                .HasColumnType("datetime");
+            entity.HasIndex(e => e.ComponentName, "UQ__MediaCom__DB06D1C11B7B63FB").IsUnique();
+
+            entity.Property(e => e.ComponentName).HasMaxLength(100);
             entity.Property(e => e.Description).HasMaxLength(255);
-            entity.Property(e => e.Name).HasMaxLength(100);
-            entity.Property(e => e.Type).HasMaxLength(50);
-            entity.Property(e => e.UpdatedDate)
-                .HasDefaultValueSql("(getdate())")
-                .HasColumnType("datetime");
         });
 
         modelBuilder.Entity<MediaContent>(entity =>
         {
-            entity.HasKey(e => e.ContentId).HasName("PK__MediaCon__2907A81ED651F3E4");
+            entity.HasKey(e => e.ContentId).HasName("PK__MediaCon__2907A81E1AF01E1B");
 
             entity.ToTable("MediaContent");
 
@@ -112,7 +75,7 @@ public partial class MediaDashboardContext : DbContext
 
         modelBuilder.Entity<News>(entity =>
         {
-            entity.HasKey(e => e.NewsId).HasName("PK__News__954EBDF33D891209");
+            entity.HasKey(e => e.NewsId).HasName("PK__News__954EBDF34509B729");
 
             entity.Property(e => e.PublishedDate).HasColumnType("datetime");
             entity.Property(e => e.Source).HasMaxLength(100);
@@ -122,11 +85,11 @@ public partial class MediaDashboardContext : DbContext
 
         modelBuilder.Entity<User>(entity =>
         {
-            entity.HasKey(e => e.UserId).HasName("PK__Users__1788CC4CF106E73A");
+            entity.HasKey(e => e.UserId).HasName("PK__Users__1788CC4C185E702A");
 
-            entity.HasIndex(e => e.Username, "UQ__Users__536C85E495E7953D").IsUnique();
+            entity.HasIndex(e => e.Username, "UQ__Users__536C85E4C562A29D").IsUnique();
 
-            entity.HasIndex(e => e.Email, "UQ__Users__A9D10534FA1D64E4").IsUnique();
+            entity.HasIndex(e => e.Email, "UQ__Users__A9D10534EEF48DD4").IsUnique();
 
             entity.Property(e => e.Email).HasMaxLength(100);
             entity.Property(e => e.Password).HasMaxLength(100);
@@ -136,7 +99,7 @@ public partial class MediaDashboardContext : DbContext
 
         modelBuilder.Entity<Weather>(entity =>
         {
-            entity.HasKey(e => e.WeatherId).HasName("PK__Weather__0BF97BF50F31BC24");
+            entity.HasKey(e => e.WeatherId).HasName("PK__Weather__0BF97BF5C9EE81AE");
 
             entity.ToTable("Weather");
 

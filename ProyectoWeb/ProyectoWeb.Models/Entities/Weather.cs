@@ -14,6 +14,4 @@ public partial class Weather
     public string Condition { get; set; } = null!;
 
     public DateTime Date { get; set; }
-
-    public virtual ICollection<ComponentWeather> ComponentWeathers { get; set; } = new List<ComponentWeather>();
 }

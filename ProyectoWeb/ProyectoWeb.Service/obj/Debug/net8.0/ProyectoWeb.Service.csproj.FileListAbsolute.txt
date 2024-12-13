@@ -1,11 +1,28 @@
-C:\Users\enriq\OneDrive\Imágenes\proyectoweb\ProyectoWeb\ProyectoWeb.Service\bin\Debug\net8.0\ProyectoWeb.Service.deps.json
-C:\Users\enriq\OneDrive\Imágenes\proyectoweb\ProyectoWeb\ProyectoWeb.Service\bin\Debug\net8.0\ProyectoWeb.Service.dll
-C:\Users\enriq\OneDrive\Imágenes\proyectoweb\ProyectoWeb\ProyectoWeb.Service\bin\Debug\net8.0\ProyectoWeb.Service.pdb
-C:\Users\enriq\OneDrive\Imágenes\proyectoweb\ProyectoWeb\ProyectoWeb.Service\obj\Debug\net8.0\ProyectoWeb.Service.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\enriq\OneDrive\Imágenes\proyectoweb\ProyectoWeb\ProyectoWeb.Service\obj\Debug\net8.0\ProyectoWeb.Service.AssemblyInfoInputs.cache
-C:\Users\enriq\OneDrive\Imágenes\proyectoweb\ProyectoWeb\ProyectoWeb.Service\obj\Debug\net8.0\ProyectoWeb.Service.AssemblyInfo.cs
-C:\Users\enriq\OneDrive\Imágenes\proyectoweb\ProyectoWeb\ProyectoWeb.Service\obj\Debug\net8.0\ProyectoWeb.Service.csproj.CoreCompileInputs.cache
-C:\Users\enriq\OneDrive\Imágenes\proyectoweb\ProyectoWeb\ProyectoWeb.Service\obj\Debug\net8.0\ProyectoWeb.Service.dll
-C:\Users\enriq\OneDrive\Imágenes\proyectoweb\ProyectoWeb\ProyectoWeb.Service\obj\Debug\net8.0\refint\ProyectoWeb.Service.dll
-C:\Users\enriq\OneDrive\Imágenes\proyectoweb\ProyectoWeb\ProyectoWeb.Service\obj\Debug\net8.0\ProyectoWeb.Service.pdb
-C:\Users\enriq\OneDrive\Imágenes\proyectoweb\ProyectoWeb\ProyectoWeb.Service\obj\Debug\net8.0\ref\ProyectoWeb.Service.dll
+C:\Users\user\Desktop\Fidélitas\3er Cuatri\Progra Avanzada Web\ProyectoGitHub\PrograAvanzadaWeb\ProyectoWeb.Service\bin\Debug\net8.0\ProyectoWeb.Service.deps.json
+C:\Users\user\Desktop\Fidélitas\3er Cuatri\Progra Avanzada Web\ProyectoGitHub\PrograAvanzadaWeb\ProyectoWeb.Service\bin\Debug\net8.0\ProyectoWeb.Service.dll
+C:\Users\user\Desktop\Fidélitas\3er Cuatri\Progra Avanzada Web\ProyectoGitHub\PrograAvanzadaWeb\ProyectoWeb.Service\bin\Debug\net8.0\ProyectoWeb.Service.pdb
+C:\Users\user\Desktop\Fidélitas\3er Cuatri\Progra Avanzada Web\ProyectoGitHub\PrograAvanzadaWeb\ProyectoWeb.Service\obj\Debug\net8.0\ProyectoWeb.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Fidélitas\3er Cuatri\Progra Avanzada Web\ProyectoGitHub\PrograAvanzadaWeb\ProyectoWeb.Service\obj\Debug\net8.0\ProyectoWeb.Service.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Fidélitas\3er Cuatri\Progra Avanzada Web\ProyectoGitHub\PrograAvanzadaWeb\ProyectoWeb.Service\obj\Debug\net8.0\ProyectoWeb.Service.AssemblyInfo.cs
+C:\Users\user\Desktop\Fidélitas\3er Cuatri\Progra Avanzada Web\ProyectoGitHub\PrograAvanzadaWeb\ProyectoWeb.Service\obj\Debug\net8.0\ProyectoWeb.Service.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Fidélitas\3er Cuatri\Progra Avanzada Web\ProyectoGitHub\PrograAvanzadaWeb\ProyectoWeb.Service\obj\Debug\net8.0\ProyectoWeb.Service.sourcelink.json
+C:\Users\user\Desktop\Fidélitas\3er Cuatri\Progra Avanzada Web\ProyectoGitHub\PrograAvanzadaWeb\ProyectoWeb.Service\obj\Debug\net8.0\ProyectoWeb.Service.dll
+C:\Users\user\Desktop\Fidélitas\3er Cuatri\Progra Avanzada Web\ProyectoGitHub\PrograAvanzadaWeb\ProyectoWeb.Service\obj\Debug\net8.0\refint\ProyectoWeb.Service.dll
+C:\Users\user\Desktop\Fidélitas\3er Cuatri\Progra Avanzada Web\ProyectoGitHub\PrograAvanzadaWeb\ProyectoWeb.Service\obj\Debug\net8.0\ProyectoWeb.Service.pdb
+C:\Users\user\Desktop\Fidélitas\3er Cuatri\Progra Avanzada Web\ProyectoGitHub\PrograAvanzadaWeb\ProyectoWeb.Service\obj\Debug\net8.0\ref\ProyectoWeb.Service.dll
+C:\Users\enriq\Music\proyectoweb\ProyectoWeb\ProyectoWeb.Service\obj\Debug\net8.0\ProyectoWeb.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enriq\Music\proyectoweb\ProyectoWeb\ProyectoWeb.Service\obj\Debug\net8.0\ProyectoWeb.Service.AssemblyInfoInputs.cache
+C:\Users\enriq\Music\proyectoweb\ProyectoWeb\ProyectoWeb.Service\obj\Debug\net8.0\ProyectoWeb.Service.AssemblyInfo.cs
+C:\Users\enriq\Music\proyectoweb\ProyectoWeb\ProyectoWeb.Service\obj\Debug\net8.0\ProyectoWeb.Service.csproj.CoreCompileInputs.cache
+C:\Users\enriq\Music\proyectoweb\ProyectoWeb\ProyectoWeb.Service\obj\Debug\net8.0\ProyectoWeb.Service.sourcelink.json
+C:\Users\enriq\Music\proyectoweb\ProyectoWeb\ProyectoWeb.Service\obj\Debug\net8.0\ProyectoWeb.Service.dll
+C:\Users\enriq\Music\proyectoweb\ProyectoWeb\ProyectoWeb.Service\obj\Debug\net8.0\refint\ProyectoWeb.Service.dll
+C:\Users\enriq\Music\proyectoweb\ProyectoWeb\ProyectoWeb.Service\obj\Debug\net8.0\ProyectoWeb.Service.pdb
+C:\Users\enriq\Music\proyectoweb\ProyectoWeb\ProyectoWeb.Service\bin\Debug\net8.0\ProyectoWeb.Service.deps.json
+C:\Users\enriq\Music\proyectoweb\ProyectoWeb\ProyectoWeb.Service\bin\Debug\net8.0\ProyectoWeb.Service.dll
+C:\Users\enriq\Music\proyectoweb\ProyectoWeb\ProyectoWeb.Service\bin\Debug\net8.0\ProyectoWeb.Service.pdb
+C:\Users\enriq\Music\proyectoweb\ProyectoWeb\ProyectoWeb.Service\bin\Debug\net8.0\ProyectoWeb.Data.dll
+C:\Users\enriq\Music\proyectoweb\ProyectoWeb\ProyectoWeb.Service\bin\Debug\net8.0\ProyectoWeb.Data.pdb
+C:\Users\enriq\Music\proyectoweb\ProyectoWeb\ProyectoWeb.Service\obj\Debug\net8.0\ProyectoWeb.Service.csproj.AssemblyReference.cache
+C:\Users\enriq\Music\proyectoweb\ProyectoWeb\ProyectoWeb.Service\obj\Debug\net8.0\Proyecto.2240CC28.Up2Date
+C:\Users\enriq\Music\proyectoweb\ProyectoWeb\ProyectoWeb.Service\obj\Debug\net8.0\ref\ProyectoWeb.Service.dll

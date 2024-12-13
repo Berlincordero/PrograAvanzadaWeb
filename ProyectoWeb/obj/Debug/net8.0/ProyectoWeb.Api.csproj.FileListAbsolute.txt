@@ -1,0 +1,49 @@
+C:\Users\user\Desktop\Fidélitas\3er Cuatri\Progra Avanzada Web\proyectoweb\ProyectoWeb\ProyectoWeb\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\user\Desktop\Fidélitas\3er Cuatri\Progra Avanzada Web\proyectoweb\ProyectoWeb\ProyectoWeb\bin\Debug\net8.0\appsettings.json
+C:\Users\user\Desktop\Fidélitas\3er Cuatri\Progra Avanzada Web\proyectoweb\ProyectoWeb\ProyectoWeb\bin\Debug\net8.0\ProyectoWeb.Api.staticwebassets.endpoints.json
+C:\Users\user\Desktop\Fidélitas\3er Cuatri\Progra Avanzada Web\proyectoweb\ProyectoWeb\ProyectoWeb\bin\Debug\net8.0\ProyectoWeb.Api.exe
+C:\Users\user\Desktop\Fidélitas\3er Cuatri\Progra Avanzada Web\proyectoweb\ProyectoWeb\ProyectoWeb\bin\Debug\net8.0\ProyectoWeb.Api.deps.json
+C:\Users\user\Desktop\Fidélitas\3er Cuatri\Progra Avanzada Web\proyectoweb\ProyectoWeb\ProyectoWeb\bin\Debug\net8.0\ProyectoWeb.Api.runtimeconfig.json
+C:\Users\user\Desktop\Fidélitas\3er Cuatri\Progra Avanzada Web\proyectoweb\ProyectoWeb\ProyectoWeb\bin\Debug\net8.0\ProyectoWeb.Api.dll
+C:\Users\user\Desktop\Fidélitas\3er Cuatri\Progra Avanzada Web\proyectoweb\ProyectoWeb\ProyectoWeb\bin\Debug\net8.0\ProyectoWeb.Api.pdb
+C:\Users\user\Desktop\Fidélitas\3er Cuatri\Progra Avanzada Web\proyectoweb\ProyectoWeb\ProyectoWeb\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\user\Desktop\Fidélitas\3er Cuatri\Progra Avanzada Web\proyectoweb\ProyectoWeb\ProyectoWeb\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Desktop\Fidélitas\3er Cuatri\Progra Avanzada Web\proyectoweb\ProyectoWeb\ProyectoWeb\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Desktop\Fidélitas\3er Cuatri\Progra Avanzada Web\proyectoweb\ProyectoWeb\ProyectoWeb\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Desktop\Fidélitas\3er Cuatri\Progra Avanzada Web\proyectoweb\ProyectoWeb\ProyectoWeb\obj\Debug\net8.0\ProyectoWeb.Api.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Fidélitas\3er Cuatri\Progra Avanzada Web\proyectoweb\ProyectoWeb\ProyectoWeb\obj\Debug\net8.0\ProyectoWeb.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Fidélitas\3er Cuatri\Progra Avanzada Web\proyectoweb\ProyectoWeb\ProyectoWeb\obj\Debug\net8.0\ProyectoWeb.Api.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Fidélitas\3er Cuatri\Progra Avanzada Web\proyectoweb\ProyectoWeb\ProyectoWeb\obj\Debug\net8.0\ProyectoWeb.Api.AssemblyInfo.cs
+C:\Users\user\Desktop\Fidélitas\3er Cuatri\Progra Avanzada Web\proyectoweb\ProyectoWeb\ProyectoWeb\obj\Debug\net8.0\ProyectoWeb.Api.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Fidélitas\3er Cuatri\Progra Avanzada Web\proyectoweb\ProyectoWeb\ProyectoWeb\obj\Debug\net8.0\ProyectoWeb.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Desktop\Fidélitas\3er Cuatri\Progra Avanzada Web\proyectoweb\ProyectoWeb\ProyectoWeb\obj\Debug\net8.0\ProyectoWeb.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\Fidélitas\3er Cuatri\Progra Avanzada Web\proyectoweb\ProyectoWeb\ProyectoWeb\obj\Debug\net8.0\scopedcss\bundle\ProyectoWeb.Api.styles.css
+C:\Users\user\Desktop\Fidélitas\3er Cuatri\Progra Avanzada Web\proyectoweb\ProyectoWeb\ProyectoWeb\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\user\Desktop\Fidélitas\3er Cuatri\Progra Avanzada Web\proyectoweb\ProyectoWeb\ProyectoWeb\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\user\Desktop\Fidélitas\3er Cuatri\Progra Avanzada Web\proyectoweb\ProyectoWeb\ProyectoWeb\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\user\Desktop\Fidélitas\3er Cuatri\Progra Avanzada Web\proyectoweb\ProyectoWeb\ProyectoWeb\obj\Debug\net8.0\staticwebassets\msbuild.ProyectoWeb.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Desktop\Fidélitas\3er Cuatri\Progra Avanzada Web\proyectoweb\ProyectoWeb\ProyectoWeb\obj\Debug\net8.0\staticwebassets\msbuild.ProyectoWeb.Api.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\user\Desktop\Fidélitas\3er Cuatri\Progra Avanzada Web\proyectoweb\ProyectoWeb\ProyectoWeb\obj\Debug\net8.0\staticwebassets\msbuild.build.ProyectoWeb.Api.props
+C:\Users\user\Desktop\Fidélitas\3er Cuatri\Progra Avanzada Web\proyectoweb\ProyectoWeb\ProyectoWeb\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProyectoWeb.Api.props
+C:\Users\user\Desktop\Fidélitas\3er Cuatri\Progra Avanzada Web\proyectoweb\ProyectoWeb\ProyectoWeb\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProyectoWeb.Api.props
+C:\Users\user\Desktop\Fidélitas\3er Cuatri\Progra Avanzada Web\proyectoweb\ProyectoWeb\ProyectoWeb\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\user\Desktop\Fidélitas\3er Cuatri\Progra Avanzada Web\proyectoweb\ProyectoWeb\ProyectoWeb\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\user\Desktop\Fidélitas\3er Cuatri\Progra Avanzada Web\proyectoweb\ProyectoWeb\ProyectoWeb\obj\Debug\net8.0\Proyecto.D965F608.Up2Date
+C:\Users\user\Desktop\Fidélitas\3er Cuatri\Progra Avanzada Web\proyectoweb\ProyectoWeb\ProyectoWeb\obj\Debug\net8.0\ProyectoWeb.Api.dll
+C:\Users\user\Desktop\Fidélitas\3er Cuatri\Progra Avanzada Web\proyectoweb\ProyectoWeb\ProyectoWeb\obj\Debug\net8.0\refint\ProyectoWeb.Api.dll
+C:\Users\user\Desktop\Fidélitas\3er Cuatri\Progra Avanzada Web\proyectoweb\ProyectoWeb\ProyectoWeb\obj\Debug\net8.0\ProyectoWeb.Api.pdb
+C:\Users\user\Desktop\Fidélitas\3er Cuatri\Progra Avanzada Web\proyectoweb\ProyectoWeb\ProyectoWeb\obj\Debug\net8.0\ProyectoWeb.Api.genruntimeconfig.cache
+C:\Users\user\Desktop\Fidélitas\3er Cuatri\Progra Avanzada Web\proyectoweb\ProyectoWeb\ProyectoWeb\obj\Debug\net8.0\ref\ProyectoWeb.Api.dll
+C:\Users\enriq\Music\proyectoweb\ProyectoWeb\obj\Debug\net8.0\ProyectoWeb.Api.csproj.AssemblyReference.cache
+C:\Users\enriq\Music\proyectoweb\ProyectoWeb\obj\Debug\net8.0\ProyectoWeb.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enriq\Music\proyectoweb\ProyectoWeb\obj\Debug\net8.0\ProyectoWeb.Api.AssemblyInfoInputs.cache
+C:\Users\enriq\Music\proyectoweb\ProyectoWeb\obj\Debug\net8.0\ProyectoWeb.Api.AssemblyInfo.cs
+C:\Users\enriq\Music\proyectoweb\ProyectoWeb\obj\Debug\net8.0\ProyectoWeb.Api.csproj.CoreCompileInputs.cache
+C:\Users\enriq\Music\proyectoweb\ProyectoWeb\obj\Debug\net8.0\ProyectoWeb.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\enriq\Music\proyectoweb\ProyectoWeb\obj\Debug\net8.0\ProyectoWeb.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\enriq\Music\proyectoweb\ProyectoWeb\obj\Debug\net8.0\ProyectoWeb.Api.RazorAssemblyInfo.cache
+C:\Users\enriq\Music\proyectoweb\ProyectoWeb\obj\Debug\net8.0\ProyectoWeb.Api.RazorAssemblyInfo.cs
+C:\Users\enriq\Music\proyectoweb\ProyectoWeb\obj\Debug\net8.0\ProyectoWeb.Api.sourcelink.json
+C:\Users\enriq\Music\proyectoweb\ProyectoWeb\obj\Debug\net8.0\ProyectoWeb.Api.dll
+C:\Users\enriq\Music\proyectoweb\ProyectoWeb\obj\Debug\net8.0\refint\ProyectoWeb.Api.dll
+C:\Users\enriq\Music\proyectoweb\ProyectoWeb\obj\Debug\net8.0\ProyectoWeb.Api.pdb

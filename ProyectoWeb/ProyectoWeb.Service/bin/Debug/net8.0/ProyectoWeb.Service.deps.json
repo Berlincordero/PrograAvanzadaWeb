@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v8.0": {
       "ProyectoWeb.Service/1.0.0": {
+        "dependencies": {
+          "ProyectoWeb.Data": "1.0.0"
+        },
         "runtime": {
           "ProyectoWeb.Service.dll": {}
+        }
+      },
+      "ProyectoWeb.Data/1.0.0": {
+        "runtime": {
+          "ProyectoWeb.Data.dll": {}
         }
       }
     }
   },
   "libraries": {
     "ProyectoWeb.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProyectoWeb.Data/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
